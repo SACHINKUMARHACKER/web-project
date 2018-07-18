@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: blue;
+    
+}
+header{
+    background-color: blue;
+}
+header .head{
+    padding: 20px 20px 20px 20px;
+    margin: 3px;
+    
+    color: antiquewhite;
+}
+header .logo{
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    background-color: blue;
+}
+header .menu{
+    background-color: blue;
+    text-align: center;
+}
+header .menu ul{
+    display: inline;
+    text-decoration: none;
+    float: right;
+}
+header .menu ul li{
+    padding: 10px;
+    float: left;
+    text-transform: uppercase;
+    color:red;
+    margin : 10 px;
+    display: inline;
+}
