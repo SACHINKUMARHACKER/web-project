@@ -1,0 +1,38 @@
+body{
+    background-color: blueviolet;
+}
+.logo{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 10px;
+    color: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+.menu
+{
+    color: aliceblue;
+    
+}
+.menu ul
+{
+    display: inline;
+    float:right;
+}
+.menu ul li{
+    text-decoration: none;
+    float: left;
+    margin:10px;
+}
+section{
+    margin-top: 80px;
+    background-color: burlywood;
+    padding: 50px;
+}
+footer
+{
+    color:wheat;
+    text-align: center;
+    background: black
+}
